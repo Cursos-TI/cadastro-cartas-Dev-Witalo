@@ -36,5 +36,4 @@ int main(){
     printf("PIB: %f \n", pib01);
     printf("Numero de pontos turisticos: %d \n",turisticos01);
 
-    
 }
